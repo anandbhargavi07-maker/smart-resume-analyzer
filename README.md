@@ -1,5 +1,5 @@
 ## Live Demo
-https://your-app-link.streamlit.app
+[Click Here to Try the App](https://smart-resume-analyzer-8eyslg4wzu2skstrpw4vsx.streamlit.app)
 
 # Smart Resume Analyzer
 
@@ -41,5 +41,3 @@ A Python + Streamlit-based Smart Resume Analyzer that compares resumes with job 
 pip install -r requirements.txt
 streamlit run app.py
 
-## Live Demo
-https://your-app-link.streamlit.app
