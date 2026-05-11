@@ -1,3 +1,6 @@
+## Live Demo
+https://your-app-link.streamlit.app
+
 # Smart Resume Analyzer
 
 A Python + Streamlit-based Smart Resume Analyzer that compares resumes with job descriptions, calculates ATS match scores, identifies missing keywords, and provides skill-gap suggestions for better job alignment.
@@ -37,3 +40,6 @@ A Python + Streamlit-based Smart Resume Analyzer that compares resumes with job 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Live Demo
+https://your-app-link.streamlit.app
